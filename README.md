@@ -19,4 +19,7 @@
 - MDK-ARM：Keil工程文件
 - Simpleness.ioc：CubeMX工程配置文件
 
+## 文档资料
+- [电路原理图PDF](docs/智能快递柜.pdf)
+
 > 注：本项目为课程设计，仅实现基础演示功能。
